@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy_provinces",
+	"version": "1.0.1",
+	"description": "Map of Italian Provinces",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jslabnl/italian_provinces"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"provinces"
+	],
+	"author": "jslab <jslabit@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
